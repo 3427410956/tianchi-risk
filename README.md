@@ -10,5 +10,4 @@
 
 ## 如何运行
 1. 安装软件：Python+PyCharm
-2. 下载代码：点右上角绿色按钮↓  
-   ![](https://i.imgur.com/Q9HrddO.png)
+2. 下载代码：(https://i.imgur.com/Q9HrddO.png)
